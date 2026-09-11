@@ -1,0 +1,13 @@
+{
+  "modules": 128,
+  "added": 57,
+  "referenceUnique": 110,
+  "referenceRows": 179,
+  "withoutChaosRows": 177,
+  "withoutChaosUnique": 108,
+  "auditedLinks": 392,
+  "uniqueSectionLinks": 115,
+  "shape": "https://dev.epicgames.com/documentation/unreal-engine/particle-spawn-group-reference-for-niagara-effects-in-unreal-engine?lang=en-US#locationmodules",
+  "missingMD": [],
+  "textFragments": 0
+}
